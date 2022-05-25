@@ -47,3 +47,43 @@
     border-radius: 5px;
     
 }
+.home{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.nav-link{
+    font-size: 20px;
+    color: black;
+}
+
+
+.socials{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.logo{
+    padding: 10px;
+    cursor: pointer;
+}
+
+.images{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    /* transform: translate(-50%, -50%); */
+    color: white;
+    width: 100%;
+    height: auto;
+    justify-content: left;
+    text-align: left;
+    align-items: center;
+    padding: 40px;
+}
