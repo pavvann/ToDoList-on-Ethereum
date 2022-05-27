@@ -37,7 +37,7 @@ Open the Command line or Terminal
 - Clone the repository
 
 ```
-git clone https://github.com/upes-open/DAPP
+git clone https://github.com/pavvann/ToDoList-on-Ethereum
 ```
 
 - Move to the folder
