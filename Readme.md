@@ -1,4 +1,4 @@
-# OPEN-ETHEREUM-TODO LIST
+# ETHEREUM-TODO LIST
 
 A blockchain based ToDoList that runs on Ethereum Networks. Every
 task added or completed triggers a smart contract and is counted as
