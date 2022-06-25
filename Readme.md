@@ -6,6 +6,8 @@ a transaction on the blockchain. A new block is mined for every
 transaction. The Wallet balance before and after every transaction
 also reflects on Metamask Wallet (or any Ethereum Wallet).
 
+## Working on deploying this to a test network
+
 <hr>
 
 ## Project Structure
