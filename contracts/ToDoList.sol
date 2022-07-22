@@ -24,7 +24,7 @@ contract ToDoList {
         bool completed
     );
 
-    constructor() {
+    constructor() public{
         createTask("Made By OPEN Community UPES");
     }
 
