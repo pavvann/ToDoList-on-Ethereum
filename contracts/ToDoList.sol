@@ -23,7 +23,7 @@ contract ToDoList {
         uint id,
         bool completed
     );
-
+    // keep constructor public
     constructor() public{
         createTask("Made By OPEN Community UPES");
     }
